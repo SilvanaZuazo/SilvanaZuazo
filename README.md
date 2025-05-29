@@ -1,9 +1,5 @@
 # ¡Hola! Soy Silvana Zuazo 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
-</div>
-
 ## 🚀 Sobre mí
 Soy una desarrolladora Frontend Junior apasionada por crear experiencias digitales cautivadoras. Con una sólida base en tecnologías web modernas, me esfuerzo por traducir diseños creativos en interfaces intuitivas y funcionales.
 
